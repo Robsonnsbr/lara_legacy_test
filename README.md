@@ -34,7 +34,7 @@ O escopo segue o que foi solicitado no desafio: migração, boas práticas, arqu
 - [x] Controller `FornecedorController` com métodos `index` e `store`.
 - [x] Rotas `api.php` versionadas (`/api/v1/fornecedores`).
 - [x] Testes Feature cobrindo cenários de sucesso, falha de validação e busca.
-- [x] Plano de migração em `docs/PLANO_MIGRACAO.md`.
+- [x] Plano de migração em `legacy/README_legacy.md.md`.
 - [x] Frontend em Next.js:
   - Formulário com validação client-side (Zod).
   - Filtro por nome.
