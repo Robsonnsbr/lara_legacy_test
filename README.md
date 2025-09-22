@@ -1,6 +1,6 @@
-# Teste Técnico – Migração PHP Nativo → Laravel
+# Teste Técnico – Migração PHP Nativo → Laravel + Next.js
 
-Este projeto implementa a migração de um código legado em PHP 7.4 procedural (`legacy/fornecedor_legacy.php`) para uma API moderna em **Laravel 12**, com frontend em **Next.js 14**.
+Este projeto implementa a migração de um código legado em PHP 7.4 procedural[`legacy/fornecedor_legacy.php`](legacy/fornecedor_legacy.php). para uma API moderna em **Laravel 12**, com frontend em **Next.js 14**.
 
 O escopo segue o que foi solicitado no desafio: migração, boas práticas, arquitetura em camadas e entrega de uma API funcional com frontend simples para consumir os endpoints.
 
